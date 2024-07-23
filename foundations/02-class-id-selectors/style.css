@@ -1,0 +1,20 @@
+.p_classes{
+    background-color: rgba(100%, 0%, 0%, 0.4);
+    font-family: Verdana, DejaVu sans, sans-serif;
+
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+.sclasses {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: hsl(120, 75%, 73%);
+    font-size: 24px;
+    font-weight: bold;
+}
